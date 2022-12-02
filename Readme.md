@@ -9,3 +9,4 @@ Status dos arquivos
 - modified: quando o arquivo é modificado
 - staged: area aonde será criado a versão e pode ser criado o commit
 
+Noções básicas de git
