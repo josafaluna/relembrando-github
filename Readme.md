@@ -10,3 +10,18 @@ Status dos arquivos
 - staged: area aonde será criado a versão e pode ser criado o commit
 
 Noções básicas de git
+
+# Git LOG
+
+git log
+git log --decorate
+git log --author="Josa"
+git shortlog
+git shortlog -sn
+git log --graph
+git show hash
+
+# Git Diff
+
+gi diff
+git diff --name-only
